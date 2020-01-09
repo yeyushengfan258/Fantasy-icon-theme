@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient1371" x1="32.523" x2="32.523" y1="59.752" y2="13.321" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ffbc4c" offset="0"/>
+   <stop stop-color="#ffd257" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1390" x1="32.523" x2="32.523" y1="59.752" y2="12.107" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#e1aa50" offset="0"/>
+   <stop stop-color="#fabe55" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1478" x1="34.24" x2="34.24" y1="59.752" y2="12.393" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#1964ff" offset="0"/>
+   <stop stop-color="#198cff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1486" x1="53.159" x2="27.311" y1="22.141" y2="-1.5634" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#1964ff" offset="0"/>
+   <stop stop-color="#198cff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <circle cx="-330.35" cy="-328.38" r="0" fill="#5e4aa6" stroke-width=".26458"/>
+ <g id="Folder" transform="matrix(.22392 0 0 .23115 1.4289 1.8395)" fill="url(#linearGradient1486)">
+  <g fill="url(#linearGradient1486)">
+   <path d="m60 4.001h-33.21c0-1.7404-1.2803-4.001-4-4.001h-18.79c-2.209 0-4 1.792-4 4.001v12c0 2.209 1.791 4 4 4h56c2.209 0 4-1.791 4-4v-8.001c0-2.209-1.791-3.999-4-3.999z" clip-rule="evenodd" fill="url(#linearGradient1486)" fill-rule="evenodd"/>
+  </g>
+ </g>
+ <g id="File_1_" transform="matrix(.23115 0 0 .23115 1.1974 1.8395)">
+  <path d="m55.553 6.4333-47.896 3.1594c-2.2042 0.1454-3.8734 2.0504-3.728 4.2556l0.26329 3.9913c0.1454 2.2042 2.0504 3.8734 4.2546 3.728l47.896-3.1594c2.2042-0.1454 3.8734-2.0504 3.728-4.2546l-0.26329-3.9913c-0.14546-2.2052-2.0505-3.8744-4.2547-3.729z" fill="#fff"/>
+ </g>
+ <g id="Folder_1_" transform="matrix(.23115 0 0 .23115 1.1974 1.8395)" fill="url(#linearGradient1371)">
+  <g fill="url(#linearGradient1390)">
+   <path d="m60 12.001h-56c-2.209 0-4 1.791-4 4v40c0 2.209 1.791 4 4 4h56c2.209 0 4-1.791 4-4v-40c0-2.209-1.791-4-4-4z" fill="url(#linearGradient1478)"/>
+  </g>
+ </g>
+ <circle cx="-330.17" cy="-334.81" r="0" fill="#5e4aa6" stroke-width=".26458"/>
+ <circle cx="-307.74" cy="-329.29" r="0" fill="#5e4aa6" stroke-width=".26458"/>
+ <path d="m6.5487 13.229 1.9974-1.8283c0.68321 0.4133 1.5841 0.32827 2.1738-0.26162 0.69347-0.69368 0.69347-1.8196 0-2.5133l-2e-6 -6.99e-4c-0.69347-0.69375-1.8148-0.6894-2.5082 0.005117-0.58968 0.58985-0.67805 1.4877-0.26584 2.1702l-1.9974 1.8283zm3.781-4.2137c0.47698 0.47717 0.47697 1.2556 0 1.7327-0.47251 0.47269-1.237 0.4725-1.7151 0.0086l-0.012867-0.01281c-0.00429-0.0051-0.00869-0.0086-0.012867-0.01313-0.46431-0.47801-0.45986-1.2385 0.012867-1.7113 0.47697-0.4772 1.2509-0.4815 1.7279-0.0051z" color="#000000" fill="#fff" stroke-width=".18293"/>
+</svg>

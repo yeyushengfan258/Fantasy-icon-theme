@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient1486" x1="53.159" x2="27.311" y1="22.141" y2="-1.5634" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#212121" offset="0"/>
+   <stop stop-color="#464646" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient923" x1="33.143" x2="33.143" y1="59.047" y2="13.394" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#212121" offset="0"/>
+   <stop stop-color="#464646" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <circle cx="-330.35" cy="-328.38" r="0" fill="#5e4aa6" stroke-width=".26458"/>
+ <g id="Folder" transform="matrix(.22392 0 0 .23115 1.4289 1.8395)" fill="url(#linearGradient1486)">
+  <g fill="url(#linearGradient1486)">
+   <path d="m60 4.001h-33.21c0-1.7404-1.2803-4.001-4-4.001h-18.79c-2.209 0-4 1.792-4 4.001v12c0 2.209 1.791 4 4 4h56c2.209 0 4-1.791 4-4v-8.001c0-2.209-1.791-3.999-4-3.999z" clip-rule="evenodd" fill="url(#linearGradient1486)" fill-rule="evenodd"/>
+  </g>
+ </g>
+ <g id="File_1_" transform="matrix(.23115 0 0 .23115 1.1974 1.8395)">
+  <path d="m55.553 6.4333-47.896 3.1594c-2.2042 0.1454-3.8734 2.0504-3.728 4.2556l0.26329 3.9913c0.1454 2.2042 2.0504 3.8734 4.2546 3.728l47.896-3.1594c2.2042-0.1454 3.8734-2.0504 3.728-4.2546l-0.26329-3.9913c-0.14546-2.2052-2.0505-3.8744-4.2547-3.729z" fill="#fff"/>
+ </g>
+ <g id="Folder_1_" transform="matrix(.23115 0 0 .23115 1.1974 1.8395)" fill="url(#linearGradient923)">
+  <g fill="url(#linearGradient923)">
+   <path d="m60 12.001h-56c-2.209 0-4 1.791-4 4v40c0 2.209 1.791 4 4 4h56c2.209 0 4-1.791 4-4v-40c0-2.209-1.791-4-4-4z" fill="url(#linearGradient923)"/>
+  </g>
+ </g>
+ <path d="m6.9096 7.9494a0.16743 0.16766 0 0 0-0.16741 0.16764v4.5474a0.16743 0.16766 0 0 0 0.16741 0.16764h3.3693a0.16743 0.16766 0 0 0 0.16741-0.16764v-2.9364l-1.7761-1.7786zm0.16741 0.33529h1.2196c0.19158 0.016579 0.31848 0.099107 0.31848 0.51865v0.81728h0.84228c0.20502 0 0.57526-0.00765 0.65399 0.22003v2.6561h-3.0344z" color="#000000" color-rendering="auto" fill="#fffffd" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke-width=".63636" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+</svg>

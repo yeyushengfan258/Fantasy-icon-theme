@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient1343" x1="1.9267" x2="15.516" y1="8.6712" y2="8.6712" gradientTransform="matrix(.94159 0 0 .90306 54.652 -.81604)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#dce6eb" offset="0"/>
+   <stop stop-color="#fefeff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2691" x1="8.72" x2="8.72" y1=".56417" y2="15.75" gradientTransform="matrix(.80391 0 0 .77102 55.853 .28337)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#73cd96" offset="0"/>
+   <stop stop-color="#50aa73" offset="1"/>
+  </linearGradient>
+  <filter id="filter2831" x="-.06" y="-.06" width="1.12" height="1.12" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.1500654"/>
+  </filter>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <circle cx="-330.35" cy="-328.38" r="0" fill="#5e4aa6" stroke-width=".26458"/>
+ <g transform="matrix(1.0928 0 0 1.0928 -60.15 1.1385)">
+  <path d="m62.847-0.42761c-2.1798 0.002474-4.4581 0.8792-6.3803 1.9792v4.0293c0.03023 1.9006 0.15817 3.4746 1.077 4.637 1.1072 1.3943 2.9469 2.6234 5.3195 3.6158 2.3676-0.98948 4.2211-2.2214 5.3267-3.6158 0.9178-1.1624 1.0407-2.7364 1.0719-4.6378v-4.0051c-1.9075-1.0691-4.2222-1.9962-6.4148-2.0026z" fill="url(#linearGradient1343)" stroke-width=".98667" style="paint-order:markers stroke fill"/>
+  <path d="m62.849 0.615c-1.8611 0.002112-3.8063 0.75065-5.4474 1.6898v3.4401c0.02581 1.6227 0.13504 2.9666 0.91952 3.959 0.94532 1.1905 2.516 2.2398 4.5417 3.0871 2.0214-0.8448 3.6039-1.8966 4.5478-3.0871 0.7836-0.99245 0.88856-2.3363 0.91518-3.9597v-3.4195c-1.6286-0.91281-3.6048-1.7043-5.4768-1.7098z" fill="url(#linearGradient2691)" stroke-width=".8424" style="paint-order:markers stroke fill"/>
+  <g transform="translate(-.35942 .78147)">
+   <g transform="translate(0 .21047)" filter="url(#filter2831)" opacity=".25">
+    <rect x="60.222" y="5.2977" width="6.0026" height=".82681" ry=".4134" opacity="1" style="paint-order:stroke fill markers"/>
+    <rect transform="rotate(-90)" x="-8.7124" y="62.81" width="6.0026" height=".82681" ry=".4134" opacity="1" style="paint-order:stroke fill markers"/>
+   </g>
+   <g fill="#fafafa">
+    <rect x="60.222" y="5.2977" width="6.0026" height=".82681" ry=".4134" style="paint-order:stroke fill markers"/>
+    <rect transform="rotate(-90)" x="-8.7124" y="62.81" width="6.0026" height=".82681" ry=".4134" style="paint-order:stroke fill markers"/>
+   </g>
+  </g>
+ </g>
+</svg>

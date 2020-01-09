@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient1539" x1="8.4845" x2="8.4845" y1="16.182" y2="6.0605" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#212121" offset="0"/>
+   <stop stop-color="#464646" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1715" x1="8.4725" x2="8.9736" y1="5.7684" y2="2.7662" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#212121" offset="0"/>
+   <stop stop-color="#464646" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <circle cx="-302.94" cy="-325.41" r="0" fill="#5e4aa6" stroke-width=".26458"/>
+ <circle cx="-311.62" cy="-325.5" r="0" fill="#5e4aa6" stroke-width=".26458"/>
+ <path d="m7.1786 2.4259 0.14737-1.048c0.04048-0.28813 0.30956-0.49079 0.59768-0.45031l2.096 0.29448c0.28812 0.04048 0.49079 0.30956 0.45031 0.59768l-0.14737 1.048z" fill="none" stroke="#212121" stroke-linecap="round" stroke-miterlimit="10" stroke-width=".52916"/>
+ <g stroke-width=".26458">
+  <path d="m13.508 4.9185-9.9561-1.3994 0.12673-0.90221c0.052122-0.36988 0.39396-0.62784 0.7641-0.57572l8.6163 1.211c0.36988 0.052122 0.62784 0.39396 0.57572 0.7641z" fill="url(#linearGradient1715)"/>
+  <path d="m4.1243 5.9493h2.8117l0.09075-0.09075-1.4967-1.4967-1.429 1.429c-0.037306 0.037305-0.037306 0.097894 0 0.1352z" fill="#ebba16"/>
+  <rect x="7.2913" y="5.1556" width="2.1166" height=".79373" fill="#dd352e"/>
+  <rect x="10.202" y="5.1556" width="1.3229" height=".79373" fill="#694f87"/>
+ </g>
+ <path d="m12.125 16.268h-7.5513c-0.39872 0-0.72203-0.32331-0.72203-0.72203v-9.5965h8.9957v9.5965c-2.64e-4 0.39872-0.32358 0.72203-0.7223 0.72203z" fill="url(#linearGradient1539)" stroke-width=".26458"/>
+ <g transform="matrix(.26458 0 0 .26458 .79139 .65774)" opacity=".15">
+  <circle cx="16.567" cy="28" r="1"/>
+  <circle cx="16.567" cy="34" r="1"/>
+  <circle cx="19.567" cy="25" r="1"/>
+  <circle cx="25.567" cy="25" r="1"/>
+  <circle cx="19.567" cy="31" r="1"/>
+  <circle cx="25.567" cy="31" r="1"/>
+  <circle cx="22.567" cy="28" r="1"/>
+  <circle cx="28.567" cy="28" r="1"/>
+  <circle cx="22.567" cy="34" r="1"/>
+  <circle cx="28.567" cy="34" r="1"/>
+  <circle cx="31.567" cy="25" r="1"/>
+  <circle cx="37.567" cy="25" r="1"/>
+  <circle cx="31.567" cy="31" r="1"/>
+  <circle cx="37.567" cy="31" r="1"/>
+  <circle cx="34.567" cy="28" r="1"/>
+  <circle cx="40.567" cy="28" r="1"/>
+  <circle cx="34.567" cy="34" r="1"/>
+  <circle cx="40.567" cy="34" r="1"/>
+  <circle cx="16.567" cy="40" r="1"/>
+  <circle cx="16.567" cy="46" r="1"/>
+  <circle cx="19.567" cy="37" r="1"/>
+  <circle cx="25.567" cy="37" r="1"/>
+  <circle cx="19.567" cy="43" r="1"/>
+  <circle cx="25.567" cy="43" r="1"/>
+  <circle cx="22.567" cy="40" r="1"/>
+  <circle cx="28.567" cy="40" r="1"/>
+  <circle cx="22.567" cy="46" r="1"/>
+  <circle cx="28.567" cy="46" r="1"/>
+  <circle cx="31.567" cy="37" r="1"/>
+  <circle cx="37.567" cy="37" r="1"/>
+  <circle cx="31.567" cy="43" r="1"/>
+  <circle cx="37.567" cy="43" r="1"/>
+  <circle cx="34.567" cy="40" r="1"/>
+  <circle cx="40.567" cy="40" r="1"/>
+  <circle cx="34.567" cy="46" r="1"/>
+  <circle cx="40.567" cy="46" r="1"/>
+  <circle cx="16.567" cy="52" r="1"/>
+  <circle cx="19.567" cy="49" r="1"/>
+  <circle cx="25.567" cy="49" r="1"/>
+  <circle cx="19.567" cy="55" r="1"/>
+  <circle cx="25.567" cy="55" r="1"/>
+  <circle cx="22.567" cy="52" r="1"/>
+  <circle cx="28.567" cy="52" r="1"/>
+  <circle cx="31.567" cy="49" r="1"/>
+  <circle cx="37.567" cy="49" r="1"/>
+  <circle cx="31.567" cy="55" r="1"/>
+  <circle cx="37.567" cy="55" r="1"/>
+  <circle cx="34.567" cy="52" r="1"/>
+  <circle cx="40.567" cy="52" r="1"/>
+ </g>
+ <g stroke-width=".26458">
+  <path d="m4.1243 5.9493h2.8117l0.09075-0.09075-1.4967-1.4967-1.429 1.429c-0.037306 0.037305-0.037306 0.097894 0 0.1352z" fill="#b0eb16"/>
+  <rect x="7.2913" y="5.1556" width="2.1166" height=".79373" fill="#2eafdd"/>
+  <rect x="10.202" y="5.1556" width="1.3229" height=".79373" fill="#4f7187"/>
+ </g>
+</svg>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient1539" x1="8.4845" x2="8.4845" y1="16.182" y2="6.0605" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#c84641" offset="0"/>
+   <stop stop-color="#f05050" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1715" x1="8.4725" x2="8.9736" y1="5.7684" y2="2.7662" gradientTransform="rotate(-7.9967 18.495 6.8585)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#c84641" offset="0"/>
+   <stop stop-color="#f05050" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g fill="#5e4aa6" stroke-width=".26458">
+  <circle cx="-302.94" cy="-325.41" r="0"/>
+  <circle cx="-311.62" cy="-325.5" r="0"/>
+  <circle cx="-303.29" cy="-325.19" r="0"/>
+  <circle cx="-311.97" cy="-325.28" r="0"/>
+ </g>
+ <path d="m6.6721 4.0432 1.436e-4 -1.0583c3.2e-6 -0.29096 0.23827-0.52908 0.52922-0.52908l2.1166 2.73e-5c0.29095 4.4e-6 0.52908 0.23827 0.52908 0.52922l-1.437e-4 1.0583z" fill="none" stroke="#c84641" stroke-linecap="round" stroke-miterlimit="10" stroke-width=".52916"/>
+ <path d="m13.287 5.6311-10.054-7.438e-4 -1.39e-5 -0.91107c1.592e-4 -0.37353 0.30279-0.67654 0.67658-0.67642l8.701 5.63e-4c0.37354 1.592e-4 0.67654 0.30279 0.67642 0.67658z" fill="url(#linearGradient1715)" stroke-width=".26458"/>
+ <g transform="translate(-.089898 -.17876)">
+  <path d="m12.125 16.268h-7.5513c-0.39872 0-0.72203-0.32331-0.72203-0.72203v-9.5965h8.9957v9.5965c-2.64e-4 0.39872-0.32358 0.72203-0.7223 0.72203z" fill="url(#linearGradient1539)" stroke-width=".26458"/>
+  <g transform="matrix(.26458 0 0 .26458 .79139 .65774)" opacity=".15">
+   <circle cx="16.567" cy="28" r="1"/>
+   <circle cx="16.567" cy="34" r="1"/>
+   <circle cx="19.567" cy="25" r="1"/>
+   <circle cx="25.567" cy="25" r="1"/>
+   <circle cx="19.567" cy="31" r="1"/>
+   <circle cx="25.567" cy="31" r="1"/>
+   <circle cx="22.567" cy="28" r="1"/>
+   <circle cx="28.567" cy="28" r="1"/>
+   <circle cx="22.567" cy="34" r="1"/>
+   <circle cx="28.567" cy="34" r="1"/>
+   <circle cx="31.567" cy="25" r="1"/>
+   <circle cx="37.567" cy="25" r="1"/>
+   <circle cx="31.567" cy="31" r="1"/>
+   <circle cx="37.567" cy="31" r="1"/>
+   <circle cx="34.567" cy="28" r="1"/>
+   <circle cx="40.567" cy="28" r="1"/>
+   <circle cx="34.567" cy="34" r="1"/>
+   <circle cx="40.567" cy="34" r="1"/>
+   <circle cx="16.567" cy="40" r="1"/>
+   <circle cx="16.567" cy="46" r="1"/>
+   <circle cx="19.567" cy="37" r="1"/>
+   <circle cx="25.567" cy="37" r="1"/>
+   <circle cx="19.567" cy="43" r="1"/>
+   <circle cx="25.567" cy="43" r="1"/>
+   <circle cx="22.567" cy="40" r="1"/>
+   <circle cx="28.567" cy="40" r="1"/>
+   <circle cx="22.567" cy="46" r="1"/>
+   <circle cx="28.567" cy="46" r="1"/>
+   <circle cx="31.567" cy="37" r="1"/>
+   <circle cx="37.567" cy="37" r="1"/>
+   <circle cx="31.567" cy="43" r="1"/>
+   <circle cx="37.567" cy="43" r="1"/>
+   <circle cx="34.567" cy="40" r="1"/>
+   <circle cx="40.567" cy="40" r="1"/>
+   <circle cx="34.567" cy="46" r="1"/>
+   <circle cx="40.567" cy="46" r="1"/>
+   <circle cx="16.567" cy="52" r="1"/>
+   <circle cx="19.567" cy="49" r="1"/>
+   <circle cx="25.567" cy="49" r="1"/>
+   <circle cx="19.567" cy="55" r="1"/>
+   <circle cx="25.567" cy="55" r="1"/>
+   <circle cx="22.567" cy="52" r="1"/>
+   <circle cx="28.567" cy="52" r="1"/>
+   <circle cx="31.567" cy="49" r="1"/>
+   <circle cx="37.567" cy="49" r="1"/>
+   <circle cx="31.567" cy="55" r="1"/>
+   <circle cx="37.567" cy="55" r="1"/>
+   <circle cx="34.567" cy="52" r="1"/>
+   <circle cx="40.567" cy="52" r="1"/>
+  </g>
+ </g>
+</svg>
