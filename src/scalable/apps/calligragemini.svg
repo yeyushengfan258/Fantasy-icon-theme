@@ -2,13 +2,6 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
  <defs>
-  <filter id="filter2761" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="0.14552168"/>
-  </filter>
-  <linearGradient id="linearGradient1024-6" x1="1.3315" x2="15.65" y1="15.576" y2="1.17" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#dddfe1" offset="0"/>
-   <stop stop-color="#f3f4f6" stop-opacity=".99608" offset="1"/>
-  </linearGradient>
   <linearGradient id="SVGID_1_" x1="24.838" x2="46.732" y1="33.654" y2="55.548" gradientUnits="userSpaceOnUse">
    <stop stop-color="#EF6B2E" offset=".3569"/>
    <stop stop-color="#F19F00" offset=".6328"/>
@@ -27,9 +20,8 @@
    </cc:Work>
   </rdf:RDF>
  </metadata>
- <path d="m10.709 1.05c4.405 0 5.0345 0.67282 5.0345 5.388v3.7761c0 4.7152-0.62954 5.388-5.0345 5.388h-4.4832c-4.405 0-5.0346-0.6728-5.0346-5.388v-3.7761c0-4.7152 0.62954-5.388 5.0346-5.388z" enable-background="new" fill="#141414" filter="url(#filter2761)" opacity=".3"/>
- <path d="m10.709 1.05c4.405 0 5.0345 0.67282 5.0345 5.388v3.7761c0 4.7152-0.62954 5.388-5.0345 5.388h-4.4832c-4.405 0-5.0346-0.6728-5.0346-5.388v-3.7761c0-4.7152 0.62954-5.388 5.0346-5.388z" enable-background="new" fill="url(#linearGradient1024-6)"/>
- <g transform="matrix(.23918 0 0 .23918 -15.774 .47724)" stroke-width="1.1062">
+ <circle cx="-330.35" cy="-328.37" r="0" fill="#5e4aa6" stroke-width=".26458"/>
+ <g transform="matrix(.29721 0 0 .29721 -21.656 -1.2865)" stroke-width="1.1062">
   <g transform="translate(71.322 .81356)">
    <path d="m29 39.8c2.5 1.5 8.6 0.6 13.4 3.7s7.5 8.1 7.6 8.3 0.1 0.4-0.2 0.7-0.8 0.3-0.8 0.3-11.1 1.8-18.2-4.9c-7.2-6.7-6.6-13.5-6.6-13.5s0.4 2.9 4.8 5.4z" clip-rule="evenodd" fill="url(#SVGID_1_)" fill-rule="evenodd" stroke-width="1.1062"/>
   </g>
