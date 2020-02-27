@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="App-Store" width="64" height="64" enable-background="new 0 0 1024 1024" image-rendering="optimizeSpeed" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <filter id="f" x="-.068441" y="-.053412" width="1.1369" height="1.1068" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.43016144"/>
+  </filter>
+  <linearGradient id="b-6" x1="32" x2="32" y1="2" y2="62" gradientTransform="matrix(.81921 0 0 .81921 5.7854 5.7854)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#1d2123" offset="0"/>
+   <stop stop-color="#33393e" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect x="2.0015" y="2.0015" width="59.997" height="59.997" ry="29.998" fill="#fafafa" stroke-width="1.0115"/>
+ <path d="m29 22.681q-0.60602-0.4214-1.3324-0.3291c-0.48562 0.0602-0.88693 0.27291-1.2121 0.63813-0.32508 0.36522-0.48963 0.79466-0.48963 1.2843v15.451c0 0.48963 0.16454 0.91906 0.48963 1.2843 0.32508 0.36522 0.72644 0.57793 1.2121 0.63813 0.48562 0.0602 0.9271-0.05217 1.3324-0.3291l11.209-7.7254c0.35719-0.24481 0.602-0.57391 0.73843-0.97926 0.13645-0.40936 0.13645-0.8187 0-1.2241-0.13646-0.40535-0.38127-0.73447-0.73447-0.98327z" filter="url(#f)" opacity=".15" stroke-width="1.2589"/>
+ <circle cx="32" cy="32" r="24.576" fill="url(#b-6)" image-rendering="optimizeSpeed" stroke-width=".81921" style="paint-order:stroke markers fill"/>
+ <path d="m29 22.681q-0.60602-0.4214-1.3324-0.3291c-0.48562 0.0602-0.88693 0.27291-1.2121 0.63813-0.32508 0.36522-0.48963 0.79466-0.48963 1.2843v15.451c0 0.48963 0.16454 0.91906 0.48963 1.2843 0.32508 0.36522 0.72644 0.57793 1.2121 0.63813 0.48562 0.0602 0.9271-0.05217 1.3324-0.3291l11.209-7.7254c0.35719-0.24481 0.602-0.57391 0.73843-0.97926 0.13645-0.40936 0.13645-0.8187 0-1.2241-0.13646-0.40535-0.38127-0.73447-0.73447-0.98327z" fill="#fff" stroke-width="1.2589"/>
+ <g transform="matrix(1 0 0 1 -49.66 -37.262)" fill="#5e4aa6" image-rendering="optimizeSpeed">
+  <circle cx="-1248.6" cy="-1241.1" r="0"/>
+  <g transform="matrix(3.7796,0,0,3.7796,-6.9956e-4,6.044e-4)" stroke-width=".26458">
+   <circle cx="-330.35" cy="-328.38" r="0"/>
+   <circle cx="-330.35" cy="-328.38" r="0"/>
+   <circle cx="-352.63" cy="-336.84" r="0"/>
+  </g>
+  <circle cx="-1248.6" cy="-1241.1" r="0"/>
+ </g>
+</svg>
