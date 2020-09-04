@@ -8,55 +8,101 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="terminix.svg"
-   id="svg31"
-   viewBox="0 0 16.933 16.933"
-   version="1.1"
+   width="64"
    height="64"
-   width="64">
+   version="1.1"
+   viewBox="0 0 16.933 16.933"
+   id="svg25"
+   sodipodi:docname="xterm.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+  <metadata
+     id="metadata29">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
   <sodipodi:namedview
-     inkscape:current-layer="svg31"
-     inkscape:window-maximized="1"
-     inkscape:window-y="36"
-     inkscape:window-x="0"
-     inkscape:cy="42.070378"
-     inkscape:cx="52.708587"
-     inkscape:zoom="5.9609375"
-     showgrid="false"
-     id="namedview33"
-     inkscape:window-height="932"
-     inkscape:window-width="1920"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0"
-     guidetolerance="10"
-     gridtolerance="10"
-     objecttolerance="10"
-     borderopacity="1"
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="932"
+     id="namedview27"
+     showgrid="false"
+     inkscape:zoom="2.9804687"
+     inkscape:cx="51.642298"
+     inkscape:cy="0.17461551"
+     inkscape:window-x="0"
+     inkscape:window-y="36"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg25" />
   <defs
-     id="defs9">
+     id="defs7">
+    <linearGradient
+       id="linearGradient862"
+       x1="7.9373"
+       x2="7.9373"
+       y1="15.081"
+       y2="1.852"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#767574"
+         offset="0"
+         id="stop2" />
+      <stop
+         stop-color="#d1e7ee"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
     <linearGradient
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.91665,0,0,0.91665,23.37345,0.71162)"
-       y2=".64687"
-       y1="16.296"
-       x2="16.388"
-       x1=".73911"
-       id="linearGradient1005-6">
+       gradientTransform="matrix(0.56696445,0,0,0.56696445,-218.63954,-293.15258)"
+       y2="517.8"
+       y1="545.8"
+       x2="399.57"
+       x1="399.57"
+       id="b">
       <stop
-         id="stop2"
+         id="stop856"
          offset="0"
-         stop-color="#323232" />
+         stop-color="#3889e9" />
       <stop
-         id="stop4"
-         offset=".49575"
-         stop-color="#4e4e4e" />
-      <stop
-         id="stop6"
+         id="stop858"
          offset="1"
-         stop-color="#323232" />
+         stop-color="#5ea5fb" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.21722657,0,0,0.21722657,12.345438,1.3829764)"
+       y2="2.1693"
+       y1="61.83"
+       x2="102.41"
+       x1="102.41"
+       id="linearGradient857">
+      <stop
+         id="stop861"
+         offset="0"
+         stop-color="#606060" />
+      <stop
+         id="stop863"
+         offset=".5"
+         stop-color="#414141" />
+      <stop
+         id="stop865"
+         offset="1"
+         stop-color="#1e1e1e" />
     </linearGradient>
     <linearGradient
        gradientUnits="userSpaceOnUse"
@@ -65,17 +111,17 @@
        y1="16.296"
        x2="16.388"
        x1=".73911"
-       id="linearGradient1005-6-6">
+       id="linearGradient1005-6">
       <stop
-         id="stop2-7"
+         id="stop2-3"
          offset="0"
          stop-color="#323232" />
       <stop
-         id="stop4-5"
+         id="stop4-6"
          offset=".49575"
          stop-color="#4e4e4e" />
       <stop
-         id="stop6-3"
+         id="stop6"
          offset="1"
          stop-color="#323232" />
     </linearGradient>
@@ -144,44 +190,14 @@
          id="stop889" />
     </linearGradient>
   </defs>
-  <metadata
-     id="metadata11">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     id="g23"
-     stroke-width=".26458"
-     fill="#5e4aa6"
-     transform="translate(-21.834 .89695)">
-    <circle
-       id="circle15"
-       r="0"
-       cy="-328.38"
-       cx="-330.35" />
-    <circle
-       id="circle17"
-       r="0"
-       cy="-326.25"
-       cx="-312.11" />
-    <circle
-       id="circle19"
-       r="0"
-       cy="-333.07"
-       cx="-306.02" />
-    <circle
-       id="circle21"
-       r="0"
-       cy="-326.01"
-       cx="-308.84" />
-  </g>
+  <circle
+     style="fill:url(#b)"
+     cx="8.4690266"
+     cy="8.3458252"
+     r="0"
+     fill="url(#b)"
+     stroke-width="0.415785"
+     id="circle876" />
   <rect
      ry="0.47384706"
      y="1.5874689"
@@ -224,38 +240,53 @@
        cy="-326.01001"
        cx="-308.84" />
   </g>
-  <path
-     d="M 2.7976647,3.3713041 2.6157672,3.9190634 4.4631628,4.6600888 2.6157672,5.4011141 2.7976647,5.9483569 5.174735,4.9422367 V 4.3779411 Z M 5.1711182,6.700751 V 7.2676302 H 8.007065 V 6.700751 Z"
-     style="fill:#f2f2f2;fill-opacity:1;stroke-width:0.529156;stroke-linecap:round"
-     id="rect984" />
   <g
      transform="translate(-21.834,0.89695)"
      fill="#5e4aa6"
      stroke-width="0.26458"
-     id="g23-6">
+     id="g23">
     <circle
        cx="-330.35001"
        cy="-328.38"
        r="0"
-       id="circle15-2" />
+       id="circle15" />
     <circle
        cx="-312.10999"
        cy="-326.25"
        r="0"
-       id="circle17-9" />
+       id="circle17" />
     <circle
        cx="-306.01999"
        cy="-333.07001"
        r="0"
-       id="circle19-1" />
+       id="circle19" />
     <circle
        cx="-308.84"
        cy="-326.01001"
        r="0"
-       id="circle21-2" />
+       id="circle21" />
   </g>
-  <path
-     id="path935"
-     style="fill:#f2f2f2;fill-opacity:1;stroke-width:0.529156;stroke-linecap:round"
-     d="M 8.3750742,3.3713041 8.1931767,3.9190634 10.040572,4.6600888 8.1931767,5.4011141 8.3750742,5.9483569 10.752144,4.9422367 V 4.3779411 Z M 10.748528,6.700751 v 0.5668792 h 2.835946 V 6.700751 Z" />
+  <g
+     transform="translate(-1.0087726,0.25795565)"
+     id="g931">
+    <g
+       id="g927"
+       aria-label="$"
+       fill="#6be54f"
+       transform="translate(0,-0.011633)">
+      <path
+         id="path925"
+         stroke-width="0.12274"
+         fill="#6be54f"
+         d="M 5.0469,8.4781 H 5.53296 V 7.90858 c 0.56462,-0.10801 0.86411,-0.5057 0.86411,-1.0409 0,-1.0998 -1.4925,-1.0065 -1.4925,-1.6153 0,-0.27003 0.16202,-0.4075 0.45169,-0.4075 0.25039,0 0.42714,0.1031 0.62844,0.28967 L 6.34802,4.72214 C 6.1369,4.49629 5.88651,4.32445 5.53301,4.27536 V 3.71565 H 5.04695 V 4.28517 C 4.53143,4.383364 4.2123,4.75159 4.2123,5.28677 c 0,1.0261 1.4925,0.96721 1.4925,1.63 0,0.27985 -0.15711,0.43205 -0.50079,0.43205 -0.27985,0 -0.54007,-0.12274 -0.8101,-0.33386 L 4.07478,7.50102 C 4.33499,7.73669 4.71304,7.88889 5.0469,7.92816 Z" />
+    </g>
+    <rect
+       id="rect929"
+       opacity="0.35"
+       fill="#6be54f"
+       height="4.7624002"
+       width="2.3812001"
+       y="3.7040999"
+       x="7.4081998" />
+  </g>
 </svg>
