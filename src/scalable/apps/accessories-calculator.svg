@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="accessories-calculator.svg"
+   id="svg78"
+   version="1.1"
+   height="64"
+   width="64">
+  <sodipodi:namedview
+     inkscape:current-layer="svg78"
+     inkscape:window-maximized="1"
+     inkscape:window-y="36"
+     inkscape:window-x="0"
+     inkscape:cy="32.662178"
+     inkscape:cx="34.975344"
+     inkscape:zoom="5.6568543"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox="true"
+     inkscape:guide-bbox="true"
+     showguides="true"
+     showgrid="false"
+     id="namedview80"
+     inkscape:window-height="932"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff">
+    <sodipodi:guide
+       id="guide1039"
+       orientation="1,0"
+       position="32,59.5" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs26">
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(195.07,46.371)"
+       y2="-8.5413"
+       y1="-1.3647"
+       x2="-177.47"
+       x1="-170.14"
+       id="linearGradient1056">
+      <stop
+         id="stop4"
+         offset="0"
+         stop-color="#0096ff" />
+      <stop
+         id="stop6"
+         offset="1"
+         stop-color="#00dcff" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(195.07,46.371)"
+       y2="-15.811"
+       y1="-8.5413"
+       x2="-170.19"
+       x1="-184.75"
+       id="linearGradient1058">
+      <stop
+         id="stop9"
+         offset="0"
+         stop-color="#505f64" />
+      <stop
+         id="stop11"
+         offset="1"
+         stop-color="#647378" />
+    </linearGradient>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.12"
+       width="1.12"
+       y="-.06"
+       x="-.06"
+       id="filter1255">
+      <feGaussianBlur
+         id="feGaussianBlur14"
+         stdDeviation="0.064633745" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.12"
+       width="1.12"
+       y="-.06"
+       x="-.06"
+       id="filter1269">
+      <feGaussianBlur
+         id="feGaussianBlur17"
+         stdDeviation="0.082435125" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.142"
+       width="1.1039"
+       y="-.070988"
+       x="-.051958"
+       id="filter1287">
+      <feGaussianBlur
+         id="feGaussianBlur20"
+         stdDeviation="0.07138584" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.2837"
+       width="1.0743"
+       y="-.14184"
+       x="-.037149"
+       id="filter959">
+      <feGaussianBlur
+         id="feGaussianBlur23"
+         stdDeviation="0.051039421" />
+    </filter>
+  </defs>
+  <path
+     d="M 32 59.5 L 54.912109 59.5 C 57.453663 59.5 59.5 57.453852 59.5 54.912109 L 59.5 32.042969 L 59.5 32 L 32 32 L 32 59.5 z "
+     style="stroke-width:3.7796;fill:#666666;fill-opacity:1"
+     id="path919" />
+  <path
+     d="M 32 59.5 L 32 32 L 4.5 32 L 4.5 54.912109 C 4.5 57.453663 6.5465256 59.5 9.0878906 59.5 L 32 59.5 z "
+     style="stroke-width:3.7796;fill:#808080;fill-opacity:1"
+     id="path1050" />
+  <path
+     d="M 32 32 L 59.5 32 L 59.5 9.0859375 C 59.5 6.5443832 57.453474 4.5 54.912109 4.5 L 32 4.5 L 32 32 z "
+     style="stroke-width:3.7796;fill:#4d4d4d;fill-opacity:1"
+     id="path1036" />
+  <path
+     d="M 32 32 L 32 4.5 L 9.0878906 4.5 C 6.5463366 4.5 4.5 6.5444966 4.5 9.0859375 L 4.5 32 L 32 32 z "
+     style="stroke-width:3.7796;fill:#b3b3b3;fill-opacity:1"
+     id="path1044" />
+  <circle
+     r="16"
+     cy="45.749523"
+     cx="45.748829"
+     id="path1053"
+     style="fill:#00bfa5;fill-opacity:1;stroke-width:0.249296;stroke-linecap:round" />
+  <g
+     transform="translate(-64.949154)"
+     id="g1017">
+    <rect
+       transform="matrix(3.8332703,0,0,4.0940627,-407.88932,-72.241196)"
+       x="126.55"
+       y="22.114"
+       width="3.2974"
+       height="0.86361003"
+       ry="0.43180001"
+       filter="url(#filter959)"
+       opacity="0.5"
+       id="rect927" />
+    <rect
+       x="77.327797"
+       y="18.276445"
+       width="12.462853"
+       height="3.2641006"
+       ry="1.6320313"
+       fill="#fafafa"
+       id="rect929"
+       style="stroke-width:3.7796" />
+    <g
+       transform="matrix(3.8355381,0,0,3.9375873,-414.46582,-68.714829)"
+       filter="url(#filter1255)"
+       opacity="0.5"
+       id="g935">
+      <rect
+         transform="rotate(45)"
+         x="111.07"
+         y="-81.265999"
+         width="3.2974"
+         height="0.86361003"
+         ry="0.43180001"
+         id="rect931" />
+      <rect
+         transform="rotate(-45)"
+         x="79.185997"
+         y="112.29"
+         width="3.2974"
+         height="0.86361003"
+         ry="0.43180001"
+         id="rect933" />
+    </g>
+    <g
+       transform="matrix(3.7796,0,0,3.7796,-406.83103,-65.369883)"
+       fill="#fafafa"
+       id="g941">
+      <rect
+         transform="rotate(45)"
+         x="111.07"
+         y="-81.265999"
+         width="3.2974"
+         height="0.86361003"
+         ry="0.43180001"
+         id="rect937" />
+      <rect
+         transform="rotate(-45)"
+         x="79.185997"
+         y="112.29"
+         width="3.2974"
+         height="0.86361003"
+         ry="0.43180001"
+         id="rect939" />
+    </g>
+    <g
+       transform="matrix(3.8449871,0,0,3.8922321,-409.36336,-60.165374)"
+       filter="url(#filter1269)"
+       opacity="0.5"
+       id="g947">
+      <rect
+         x="126.55"
+         y="26.546"
+         width="3.2974"
+         height="0.86361003"
+         ry="0.43180001"
+         id="rect943" />
+      <rect
+         transform="rotate(-90)"
+         x="-28.625999"
+         y="127.77"
+         width="3.2974"
+         height="0.86361003"
+         ry="0.43180001"
+         id="rect945" />
+    </g>
+    <g
+       transform="matrix(3.7796,0,0,3.7796,-400.97265,-57.330674)"
+       fill="#fafafa"
+       id="g953">
+      <rect
+         x="126.55"
+         y="26.546"
+         width="3.2974"
+         height="0.86361003"
+         ry="0.43180001"
+         id="rect949" />
+      <rect
+         transform="rotate(-90)"
+         x="-28.625999"
+         y="127.77"
+         width="3.2974"
+         height="0.86361003"
+         ry="0.43180001"
+         id="rect951" />
+    </g>
+    <g
+       transform="matrix(3.864641,0,0,3.8827831,-418.77456,-60.308999)"
+       filter="url(#filter1287)"
+       opacity="0.5"
+       id="g959">
+      <rect
+         x="135.28"
+         y="25.884001"
+         width="3.2974"
+         height="0.86361003"
+         ry="0.43180001"
+         id="rect955" />
+      <rect
+         x="135.28"
+         y="27.434"
+         width="3.2974"
+         height="0.84083998"
+         ry="0.42041999"
+         id="rect957" />
+    </g>
+    <g
+       transform="matrix(3.7796,0,0,3.7796,-407.0956,-57.65572)"
+       fill="#fafafa"
+       id="g965">
+      <rect
+         x="135.28"
+         y="25.884001"
+         width="3.2974"
+         height="0.86361003"
+         ry="0.43180001"
+         id="rect961" />
+      <rect
+         x="135.28"
+         y="27.434"
+         width="3.2974"
+         height="0.86361003"
+         ry="0.43180001"
+         id="rect963" />
+    </g>
+  </g>
+</svg>
