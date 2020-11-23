@@ -7,15 +7,25 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="App-Store"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg33"
+   sodipodi:docname="bluetooth-black.svg"
    width="64"
    height="64"
-   enable-background="new 0 0 1024 1024"
-   image-rendering="optimizeSpeed"
-   version="1.1"
-   viewBox="0 0 64 64"
-   sodipodi:docname="bluetooth-inactive.svg"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata37">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -29,68 +39,36 @@
      inkscape:window-height="932"
      id="namedview35"
      showgrid="false"
-     inkscape:zoom="4.2260679"
-     inkscape:cx="22.383287"
-     inkscape:cy="37.152763"
+     inkscape:zoom="5.6347572"
+     inkscape:cx="37.725063"
+     inkscape:cy="30.635311"
      inkscape:window-x="0"
      inkscape:window-y="36"
      inkscape:window-maximized="1"
-     inkscape:current-layer="App-Store" />
-  <metadata
-     id="metadata2">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+     inkscape:current-layer="svg33" />
   <defs
-     id="defs14">
+     id="defs7">
+    <linearGradient
+       id="linearGradient3764"
+       x1="1"
+       x2="47"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="rotate(-90,23.999998,24)">
+      <stop
+         style="stop-color:#333;stop-opacity:1"
+         id="stop2" />
+      <stop
+         offset="1"
+         style="stop-color:#3d3d3d;stop-opacity:1"
+         id="stop4" />
+    </linearGradient>
     <linearGradient
        id="a"
-       x1="29.565"
-       x2="29.728"
+       x1="29.565001"
+       x2="29.728001"
        y1="11.048"
-       y2="53.559"
-       gradientTransform="translate(80.009698,7.4733e-5)"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         stop-color="#e7e7e7"
-         offset="0"
-         id="stop4" />
-      <stop
-         stop-color="#fff"
-         offset="1"
-         id="stop6" />
-    </linearGradient>
-    <linearGradient
-       id="b-6"
-       x1="32"
-       x2="32"
-       y1="2"
-       y2="62"
-       gradientTransform="translate(80.009961,4.9106e-5)"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         stop-color="#1d2123"
-         offset="0"
-         id="stop9" />
-      <stop
-         stop-color="#33393e"
-         offset="1"
-         id="stop11" />
-    </linearGradient>
-    <linearGradient
-       id="a-5"
-       x1="29.565"
-       x2="29.728"
-       y1="11.048"
-       y2="53.559"
-       gradientTransform="translate(-.00021504 7.4633e-5)"
+       y2="53.558998"
+       gradientTransform="translate(-2.1504e-4,7.4633e-5)"
        gradientUnits="userSpaceOnUse">
       <stop
          stop-color="#fff"
@@ -99,65 +77,38 @@
       <stop
          stop-color="#dbf6f8"
          offset="1"
-         id="stop6-5" />
+         id="stop6" />
     </linearGradient>
     <linearGradient
        id="linearGradient978"
        x1="1.9643"
        x2="14.969"
        y1="14.924"
-       y2="2.3319"
+       y2="2.3318999"
        gradientTransform="matrix(3.7796,0,0,3.7796,-0.44248592,-35.032139)"
        gradientUnits="userSpaceOnUse">
       <stop
          stop-color="#007deb"
          offset="0"
-         id="stop9-6" />
+         id="stop9" />
       <stop
          stop-color="#009bf5"
          offset="1"
-         id="stop11-2" />
+         id="stop11" />
     </linearGradient>
   </defs>
   <g
-     fill="#5e4aa6"
-     id="g32">
-    <circle
-       cx="-1248.6"
-       cy="-1241.1"
-       r="0"
-       id="circle20" />
+     id="g23">
     <g
-       transform="matrix(3.7796 0 0 3.7796 -.00069956 .0006044)"
-       stroke-width=".26458"
-       id="g28">
-      <circle
-         cx="-330.35"
-         cy="-328.38"
-         r="0"
-         id="circle22" />
-      <circle
-         cx="-330.35"
-         cy="-328.38"
-         r="0"
-         id="circle24" />
-      <circle
-         cx="-352.63"
-         cy="-336.84"
-         r="0"
-         id="circle26" />
+       id="g21">
+      <!-- color: #3d3d3d -->
     </g>
-    <circle
-       cx="-1248.6"
-       cy="-1241.1"
-       r="0"
-       id="circle30" />
   </g>
   <g
      style="image-rendering:optimizeSpeed"
-     id="g886">
+     id="g888">
     <rect
-       style="opacity:1;fill:#2f353a;fill-opacity:1;stroke-width:0.900507"
+       style="opacity:1;fill:#393939;fill-opacity:1;stroke-width:0.900507"
        id="rect866"
        width="34"
        height="55"
@@ -169,19 +120,19 @@
        cy="-1241.1"
        r="0"
        fill="#5e4aa6"
-       id="circle16-9" />
+       id="circle16" />
     <circle
        cx="-1248.6"
        cy="-1241.1"
        r="0"
        fill="#5e4aa6"
-       id="circle20-1" />
+       id="circle20" />
     <circle
        cx="-1332.8"
        cy="-1273.1"
        r="0"
        fill="#5e4aa6"
-       id="circle22-2" />
+       id="circle22" />
     <path
        id="rect913"
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.5"

@@ -1,27 +1,118 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="App-Store" width="64" height="64" enable-background="new 0 0 1024 1024" image-rendering="optimizeSpeed" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
- <metadata>
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs>
-  <linearGradient id="a" x1="29.565" x2="29.728" y1="11.048" y2="53.559" gradientTransform="translate(-.00021504 7.4633e-5)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#fff" offset="0"/>
-   <stop stop-color="#dbf6f8" offset="1"/>
-  </linearGradient>
-  <linearGradient id="linearGradient978" x1="1.9643" x2="14.969" y1="14.924" y2="2.3319" gradientTransform="matrix(3.7796,0,0,3.7796,-8.3303e-4,-2.7711e-4)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#007deb" offset="0"/>
-   <stop stop-color="#009bf5" offset="1"/>
-  </linearGradient>
- </defs>
- <circle cx="-1248.6" cy="-1241.1" r="0" fill="#5e4aa6"/>
- <path d="m62 32c0 3.5964-0.63301 7.0448-1.7939 10.24-0.80694 2.2212-1.8686 4.3212-3.1518 6.2636-0.5375 0.81666-1.1155 1.6053-1.729 2.3633-1.964 2.4256-4.2982 4.5378-6.9182 6.2526-0.96493 0.6318-1.9678 1.2098-3.0061 1.7277-4.0321 2.0178-8.5835 3.1529-13.401 3.1529-4.8171 0-9.3685-1.1351-13.401-3.153-1.0384-0.51803-2.0424-1.096-3.0074-1.7277-2.6535-1.7376-5.0155-3.8832-6.9957-6.349-0.61464-0.76408-1.1914-1.56-1.729-2.384-1.249-1.9101-2.2836-3.9712-3.0746-6.1494-1.1607-3.1948-1.7926-6.6415-1.7926-10.237 0-16.569 13.431-30 30-30 8.317 0 15.843 3.3844 21.277 8.8503 1.5661 1.5746 2.9584 3.3233 4.1436 5.214 1.1204 1.7804 2.0571 3.6881 2.7857 5.6947 1.161 3.1959 1.794 6.6442 1.794 10.24z" fill="url(#linearGradient978)" stroke-width=".11719"/>
- <circle cx="-1248.6" cy="-1241.1" r="0" fill="#5e4aa6"/>
- <circle cx="-1332.8" cy="-1273.1" r="0" fill="#5e4aa6"/>
- <path d="m30.675 12.148c-0.34202-0.03921-0.6934 0.01697-1.0162 0.17186-0.64542 0.30976-1.056 0.96273-1.056 1.6787v13.37l-5.5716-4.5031c-0.79941-0.64624-1.9713-0.52327-2.6177 0.27646-0.6464 0.79957-0.52062 1.9738 0.27896 2.6202l7.7211 6.2416-7.7211 6.2416c-0.79957 0.6464-0.92536 1.8181-0.27896 2.6177 0.36793 0.45511 0.9068 0.68992 1.4496 0.68992 0.41111 0 0.82366-0.13498 1.1681-0.41345l5.5716-4.5031v13.367c0 0.71598 0.41062 1.369 1.056 1.6787 0.25631 0.12286 0.53074 0.18182 0.80449 0.18182 0.41567 0 0.82883-0.13847 1.1656-0.40847l11.674-9.3599c0.44077-0.35343 0.69739-0.88713 0.69739-1.4521 0-0.56493-0.25662-1.0988-0.69739-1.4521l-8.9689-7.1906 8.9689-7.1906c0.44077-0.35343 0.69739-0.88729 0.69739-1.4521 0-0.56477-0.25662-1.1013-0.69739-1.4546l-11.674-9.3574c-0.27929-0.22389-0.6119-0.3593-0.95393-0.39851zm1.6488 5.7285 6.8394 5.482-6.8394 5.4795zm0 17.285 6.8394 5.482-6.8394 5.4795z" fill="url(#a)" stroke-width=".12778"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="App-Store"
+   width="64"
+   height="64"
+   enable-background="new 0 0 1024 1024"
+   image-rendering="optimizeSpeed"
+   version="1.1"
+   viewBox="0 0 64 64"
+   sodipodi:docname="bluetooth.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="932"
+     id="namedview27"
+     showgrid="false"
+     inkscape:zoom="5.9765625"
+     inkscape:cx="21.030677"
+     inkscape:cy="33.897258"
+     inkscape:window-x="0"
+     inkscape:window-y="36"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="App-Store" />
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14">
+    <linearGradient
+       id="a"
+       x1="29.565"
+       x2="29.728"
+       y1="11.048"
+       y2="53.559"
+       gradientTransform="translate(-.00021504 7.4633e-5)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#fff"
+         offset="0"
+         id="stop4" />
+      <stop
+         stop-color="#dbf6f8"
+         offset="1"
+         id="stop6" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient978"
+       x1="1.9643"
+       x2="14.969"
+       y1="14.924"
+       y2="2.3319"
+       gradientTransform="matrix(3.7796,0,0,3.7796,-0.44248592,-35.032139)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#007deb"
+         offset="0"
+         id="stop9" />
+      <stop
+         stop-color="#009bf5"
+         offset="1"
+         id="stop11" />
+    </linearGradient>
+  </defs>
+  <rect
+     style="opacity:1;fill:#3f51b5;fill-opacity:1;stroke-width:0.900507"
+     id="rect866"
+     width="34"
+     height="55"
+     x="15"
+     y="4.5"
+     ry="17" />
+  <circle
+     cx="-1248.6"
+     cy="-1241.1"
+     r="0"
+     fill="#5e4aa6"
+     id="circle16" />
+  <circle
+     cx="-1248.6"
+     cy="-1241.1"
+     r="0"
+     fill="#5e4aa6"
+     id="circle20" />
+  <circle
+     cx="-1332.8"
+     cy="-1273.1"
+     r="0"
+     fill="#5e4aa6"
+     id="circle22" />
+  <path
+     id="rect913"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.5"
+     d="M 30.832031 14.509766 C 30.530715 14.475226 30.221884 14.525652 29.9375 14.662109 C 29.36889 14.935005 29.007812 15.509862 29.007812 16.140625 L 29.007812 27.919922 L 24.097656 23.953125 C 23.393383 23.383793 22.362442 23.490758 21.792969 24.195312 C 21.223496 24.899726 21.332686 25.934433 22.037109 26.503906 L 28.839844 32.003906 L 22.037109 37.501953 C 21.332695 38.071426 21.223496 39.104153 21.792969 39.808594 C 22.117112 40.209542 22.590157 40.416016 23.068359 40.416016 C 23.430543 40.416016 23.794207 40.298063 24.097656 40.052734 L 29.007812 36.083984 L 29.007812 47.861328 C 29.007812 48.4921 29.368926 49.067001 29.9375 49.339844 C 30.163307 49.448082 30.405312 49.5 30.646484 49.5 C 31.012685 49.5 31.377137 49.378493 31.673828 49.140625 L 41.957031 40.894531 C 42.345346 40.583162 42.572266 40.112968 42.572266 39.615234 C 42.572266 39.117535 42.345346 38.647192 41.957031 38.335938 L 34.056641 32 L 41.957031 25.666016 C 42.345346 25.354647 42.572266 24.884312 42.572266 24.386719 C 42.572266 23.889161 42.345346 23.416723 41.957031 23.105469 L 31.673828 14.861328 C 31.427776 14.664082 31.133357 14.544309 30.832031 14.509766 z M 32.285156 19.556641 L 38.310547 24.386719 L 32.285156 29.214844 L 32.285156 19.556641 z M 32.285156 34.785156 L 38.310547 39.615234 L 32.285156 44.441406 L 32.285156 34.785156 z " />
 </svg>
