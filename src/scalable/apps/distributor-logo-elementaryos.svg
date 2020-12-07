@@ -8,53 +8,15 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="3Depict.svg"
-   id="svg130"
    viewBox="0 0 64 64"
    version="1.1"
+   id="svg33"
+   sodipodi:docname="distributor-logo-elementaryos.svg"
+   width="64"
    height="64"
-   width="64">
-  <path
-     id="path926"
-     stroke-width="0.117187"
-     fill="#fafafa"
-     d="m 62.0001,31.999886 c 0,3.596367 -0.633009,7.0448 -1.793913,10.240076 -0.806945,2.221159 -1.868559,4.321219 -3.151848,6.263556 -0.537496,0.816659 -1.115511,1.605311 -1.729017,2.363272 -1.964031,2.425635 -4.298162,4.53779 -6.918183,6.252596 -0.964933,0.631798 -1.967812,1.209812 -3.006068,1.727693 -4.03208,2.017817 -8.583476,3.152907 -13.400957,3.152907 -4.817103,0 -9.368499,-1.13509 -13.400957,-3.152982 -1.03837,-0.518032 -2.042421,-1.095971 -3.007354,-1.727694 -2.65347,-1.737559 -5.015531,-3.883163 -6.9956655,-6.348975 -0.614639,-0.764085 -1.191444,-1.559993 -1.728979,-2.384022 -1.248969,-1.910135 -2.283635,-3.971228 -3.07463,-6.149413 -1.160716,-3.194784 -1.792628,-6.641516 -1.792628,-10.237052 0,-16.568641 13.4311945,-29.9998343 29.9998355,-29.9998343 8.317014,0 15.84258,3.3844446 21.276892,8.8503163 1.566078,1.57462 2.958407,3.32329 4.143577,5.213961 1.120425,1.780419 2.057086,3.688135 2.78568,5.694726 1.160981,3.195918 1.794026,6.644162 1.794026,10.240075 z" />
-  <circle
-     id="circle940"
-     stroke-width="1.00001"
-     fill-rule="evenodd"
-     fill="#5e4aa6"
-     r="0"
-     cy="15.615895"
-     cx="-230.02267" />
-  <sodipodi:namedview
-     inkscape:current-layer="svg130"
-     inkscape:window-maximized="1"
-     inkscape:window-y="36"
-     inkscape:window-x="0"
-     inkscape:cy="57.088197"
-     inkscape:cx="-37.424394"
-     inkscape:zoom="4"
-     showgrid="false"
-     id="namedview132"
-     inkscape:window-height="932"
-     inkscape:window-width="1920"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0"
-     guidetolerance="10"
-     gridtolerance="10"
-     objecttolerance="10"
-     borderopacity="1"
-     bordercolor="#666666"
-     pagecolor="#ffffff"
-     inkscape:document-rotation="0"
-     inkscape:snap-bbox="true"
-     inkscape:bbox-nodes="true"
-     inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:pagecheckerboard="true" />
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
-     id="metadata2">
+     id="metadata37">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -65,8 +27,44 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="932"
+     id="namedview35"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:zoom="2.8173786"
+     inkscape:cx="-20.689854"
+     inkscape:cy="43.477179"
+     inkscape:window-x="0"
+     inkscape:window-y="36"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg33"
+     inkscape:document-rotation="0" />
   <defs
-     id="defs52">
+     id="defs7">
+    <linearGradient
+       id="linearGradient3764"
+       x1="1"
+       x2="47"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="rotate(-90,23.999998,24)">
+      <stop
+         style="stop-color:#e1e1e1;stop-opacity:1"
+         id="stop2" />
+      <stop
+         offset="1"
+         style="stop-color:#ebebeb;stop-opacity:1"
+         id="stop4" />
+    </linearGradient>
     <linearGradient
        gradientUnits="userSpaceOnUse"
        y2="35.403"
@@ -89,7 +87,7 @@
     <linearGradient
        id="linearGradient1057">
       <stop
-         id="stop4"
+         id="stop4-3"
          offset="0"
          stop-color="#fff" />
       <stop
@@ -322,41 +320,6 @@
          id="stop919" />
     </linearGradient>
   </defs>
-  <circle
-     style="fill:#ff3c64;stroke-width:0.92368;fill-opacity:1"
-     id="circle64"
-     fill="url(#linearGradient1049)"
-     r="11.546"
-     cy="25.028986"
-     cx="40.453915" />
-  <circle
-     style="fill:#14dc78;stroke-width:0.92368;fill-opacity:1"
-     id="circle68"
-     fill="url(#linearGradient1047)"
-     r="11.546"
-     cy="30.55444"
-     cx="23.545952" />
-  <circle
-     style="fill:#32b4ff;stroke-width:0.92368;fill-opacity:1"
-     id="circle72"
-     fill="url(#linearGradient982)"
-     r="11.546"
-     cy="38.971012"
-     cx="35.328411" />
-  <!-- color: #eeeeee -->
-  <circle
-     id="circle80"
-     fill="#5e4aa6"
-     r="0"
-     cy="-1241.6"
-     cx="-1248.7" />
-  <circle
-     id="circle82"
-     fill-rule="evenodd"
-     fill="#5e4aa6"
-     r="0"
-     cy="23.855"
-     cx="-149.15" />
   <style
      id="style84"
      type="text/css">.st0{opacity:0.15;fill:#45413C;}
@@ -469,83 +432,110 @@
 	.st107{fill:#FFCABF;}
 	.st108{fill:#87898C;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 	.st109{fill:#EBCB00;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}</style>
+  <circle
+     style="fill:#3d91e7;fill-opacity:1;stroke-width:0.321799"
+     id="path912"
+     cx="32"
+     cy="32"
+     r="30" />
+  <circle
+     id="circle940"
+     stroke-width="1.00001"
+     fill-rule="evenodd"
+     fill="#5e4aa6"
+     r="0"
+     cy="15.615895"
+     cx="-230.02267" />
+  <circle
+     id="circle80"
+     fill="#5e4aa6"
+     r="0"
+     cy="-1241.6"
+     cx="-1248.7" />
+  <circle
+     id="circle82"
+     fill-rule="evenodd"
+     fill="#5e4aa6"
+     r="0"
+     cy="23.855"
+     cx="-149.14999" />
   <g
      id="g128"
      fill="#5e4aa6">
     <g
        id="g116"
-       stroke-width=".26458"
-       transform="matrix(3.7796 0 0 3.7796 186.08 -17.894)">
+       stroke-width="0.26458"
+       transform="matrix(3.7796,0,0,3.7796,186.08,-17.894)">
       <g
          id="g94"
-         transform="translate(-.0272 .0065001)">
+         transform="translate(-0.0272,0.0065001)">
         <circle
            id="circle86"
            r="0"
            cy="-328.38"
-           cx="-330.35" />
+           cx="-330.35001" />
         <circle
            id="circle88"
            r="0"
            cy="-326.25"
-           cx="-312.11" />
+           cx="-312.10999" />
         <circle
            id="circle90"
            r="0"
-           cy="-333.07"
-           cx="-306.02" />
+           cy="-333.07001"
+           cx="-306.01999" />
         <circle
            id="circle92"
            r="0"
-           cy="-326.01"
+           cy="-326.01001"
            cx="-308.84" />
       </g>
       <g
          id="g104"
-         transform="translate(-.0272 .0065001)">
+         transform="translate(-0.0272,0.0065001)">
         <circle
            id="circle96"
            r="0"
            cy="-328.38"
-           cx="-330.35" />
+           cx="-330.35001" />
         <circle
            id="circle98"
            r="0"
            cy="-326.25"
-           cx="-312.11" />
+           cx="-312.10999" />
         <circle
            id="circle100"
            r="0"
-           cy="-333.07"
-           cx="-306.02" />
+           cy="-333.07001"
+           cx="-306.01999" />
         <circle
            id="circle102"
            r="0"
-           cy="-326.01"
+           cy="-326.01001"
            cx="-308.84" />
       </g>
       <g
          id="g114"
-         transform="translate(-.02705 .0064503)">
+         transform="translate(-0.02705,0.0064503)">
         <circle
            id="circle106"
            r="0"
            cy="-328.38"
-           cx="-330.35" />
+           cx="-330.35001" />
         <circle
            id="circle108"
            r="0"
            cy="-326.25"
-           cx="-312.11" />
+           cx="-312.10999" />
         <circle
            id="circle110"
            r="0"
-           cy="-333.07"
-           cx="-306.02" />
+           cy="-333.07001"
+           cx="-306.01999" />
         <circle
            id="circle112"
            r="0"
-           cy="-326.01"
+           cy="-326.01001"
            cx="-308.84" />
       </g>
     </g>
@@ -556,8 +546,8 @@
        cx="-1149.1" />
     <g
        id="g126"
-       stroke-width=".26458"
-       transform="matrix(3.7796 0 0 3.7796 99.568 -24.402)">
+       stroke-width="0.26458"
+       transform="matrix(3.7796,0,0,3.7796,99.568,-24.402)">
       <circle
          id="circle120"
          r="0"
@@ -567,8 +557,8 @@
          id="circle122"
          fill-rule="evenodd"
          r="0"
-         cy="6.3115"
-         cx="-39.462" />
+         cy="6.3115001"
+         cx="-39.462002" />
       <circle
          id="circle124"
          image-rendering="optimizeSpeed"
@@ -590,4 +580,14 @@
      r="0"
      cy="-1250.0621"
      cx="-1329.01" />
+  <g
+     transform="matrix(0.08333333,0,0,0.08333333,-1.333332,-22.363513)"
+     style="fill:#ffffff;fill-opacity:1"
+     id="g1077">
+    <path
+       d="M 400,100 C 234.31,100 100,234.31 100,400 100,565.69 234.31,700 400,700 565.69,700 700,565.69 700,400 700,234.31 565.69,100 400,100 Z m 0,25 c 125.97,0 232.15,84.7 264.72,200.25 -28.05,57.852 -67.959,109.94 -116.56,152.03 -23.349,20.22 -48.841,38.25 -77,50.938 -28.16,12.692 -59.13,19.893 -89.97,18.13 -23.17,-1.329 -46.05,-7.782 -66.34,-19.03 53.77,-29.14 102.29,-67.983 142,-114.5 26.07,-30.533 48.875,-65.23 57.656,-104.41 4.391,-19.587 5.135,-40.1 1.031,-59.75 -4.104,-19.649 -13.189,-38.37 -26.938,-53 -13.432,-14.288 -31.06,-24.41 -49.969,-29.625 -18.904,-5.215 -39.02,-5.619 -58.31,-2.094 -38.582,7.05 -73.03,29.474 -100.66,57.31 -48.698,49.07 -78.8,118.31 -73.28,187.22 2.761,34.456 14.308,68.31 34.09,96.66 4.417,6.327 9.272,12.353 14.469,18.06 -28.824,10.09 -58.669,17.268 -88.94,21.313 -25.988,-41.993 -41,-91.49 -41,-144.5 0,-151.88 123.12,-275 275,-275 z m 1.75,55.56 c 19.331,0.026 38.794,5.879 54.22,17.531 13.897,10.499 24.19,25.434 30.03,41.844 5.837,16.409 7.335,34.23 5.344,51.53 -3.983,34.605 -21.44,66.34 -42.531,94.06 -37.34,49.09 -86.982,88.37 -142.19,115.88 -5.651,2.815 -11.391,5.491 -17.16,8.06 -12.01,-10.512 -22.308,-22.98 -30.16,-36.875 -16.399,-29.03 -21.807,-63.53 -18.625,-96.72 3.182,-33.19 14.573,-65.19 29.875,-94.81 17.742,-34.35 41.926,-66.89 75.78,-85.56 16.927,-9.336 36.07,-14.964 55.41,-14.938 z m 270.78,182.63 c 1.611,12.04 2.469,24.329 2.469,36.813 0,151.88 -123.12,275 -275,275 -85.3,0 -161.53,-38.83 -211.97,-99.78 31.13,-7.07 61.56,-17.228 90.75,-30.16 12.764,9.72 26.86,17.693 41.844,23.438 43.15,16.543 92.14,14.15 135.81,-0.969 43.671,-15.12 82.4,-42.25 116.16,-73.813 40.22,-37.595 74.12,-81.907 99.94,-130.53 z"
+       transform="translate(0,252.36218)"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="path1075" />
+  </g>
 </svg>

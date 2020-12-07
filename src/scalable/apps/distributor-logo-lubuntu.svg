@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewBox="0 0 64 64"
+   id="svg23"
+   sodipodi:docname="distributor-logo-lubuntu.svg"
+   width="64"
+   height="64"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata27">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="932"
+     id="namedview25"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:zoom="2.8173786"
+     inkscape:cx="33.48513"
+     inkscape:cy="53.209344"
+     inkscape:window-x="0"
+     inkscape:window-y="36"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg23" />
+  <defs
+     id="defs7">
+    <linearGradient
+       id="bg"
+       x2="0"
+       y1="1"
+       y2="47"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(107.54014)">
+      <stop
+         style="stop-color:#287ddc"
+         offset="0"
+         id="stop2" />
+      <stop
+         style="stop-color:#2273ce"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+  </defs>
+  <circle
+     style="fill:#0068c8;fill-opacity:1;stroke-width:0.423484"
+     id="path866"
+     cx="32"
+     cy="32"
+     r="30" />
+  <path
+     id="path868"
+     style="color:#000000;white-space:normal;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:#f9f9f9;fill-rule:evenodd;stroke-width:1.89286;color-rendering:auto;image-rendering:auto;shape-rendering:auto"
+     d="M 40.564453 10.683594 C 40.438327 10.663413 40.305279 10.692006 40.201172 10.714844 L 40.201172 10.716797 C 38.137192 11.169589 36.206681 12.156742 34.318359 12.996094 C 34.199109 13.009344 34.04918 12.920649 33.9375 12.943359 C 32.477345 13.337529 31.01995 14.173326 29.861328 14.763672 C 27.427294 16.061855 24.226134 17.932571 20.783203 20.029297 C 14.113381 24.087698 6.6400429 28.900334 2 31.947266 A 30 30 0 0 0 2 32 A 30 30 0 0 0 2.0390625 33.529297 C 2.0518386 33.525333 2.0632609 33.528146 2.0761719 33.523438 C 4.8092788 32.471269 9.2041364 30.807384 13.027344 29.554688 C 14.938948 28.9283 16.71022 28.400999 18.03125 28.115234 C 18.691822 27.971413 19.249991 27.892156 19.617188 27.878906 C 19.878383 27.869506 19.843631 27.862471 19.839844 27.837891 C 19.695987 28.369653 19.331142 28.901601 19.119141 29.304688 C 18.418819 30.438247 17.271678 31.994543 15.869141 33.890625 C 13.246944 37.435656 9.7278239 42.189453 6.4140625 47.662109 A 30 30 0 0 0 7.3085938 49.039062 C 12.812406 43.173877 16.768666 37.231381 22.457031 31.939453 C 22.867763 31.560974 23.160974 31.378647 23.492188 31.126953 C 23.335079 31.39379 23.231935 31.57294 23.033203 31.898438 C 18.602852 38.767786 14.406968 46.622198 11.064453 53.484375 A 30 30 0 0 0 12.363281 54.679688 C 15.927295 50.315781 22.52926 40.848453 25.429688 36.6875 C 27.825298 33.118505 29.769915 29.826527 32.634766 26.929688 C 33.335334 26.221283 34.048956 25.940105 34.482422 25.933594 C 35.432565 25.919214 36.541483 26.418838 37.783203 27.480469 C 39.024846 28.542102 40.370585 30.156637 41.765625 32.236328 C 46.503086 39.762357 49.661066 47.180475 52.076172 54.070312 C 52.095512 54.124802 52.122459 54.175015 52.154297 54.222656 A 30 30 0 0 0 54.115234 52.271484 C 53.965685 50.546383 53.078454 47.798586 51.931641 43.65625 C 49.083066 33.335034 46.049085 22.127642 38.830078 16.566406 L 39.238281 13.986328 C 39.739852 13.356156 40.458762 12.515171 40.941406 11.771484 C 41.107977 11.516004 41.015122 11.225953 40.888672 10.947266 C 40.810212 10.774277 40.690579 10.703774 40.564453 10.683594 z " />
+</svg>

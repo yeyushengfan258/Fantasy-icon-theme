@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="4diac-ide.svg"
    id="svg115"
    viewBox="0 0 64 64"
@@ -20,9 +20,9 @@
      inkscape:window-maximized="1"
      inkscape:window-y="36"
      inkscape:window-x="0"
-     inkscape:cy="37.077822"
-     inkscape:cx="19.517909"
-     inkscape:zoom="5.9609375"
+     inkscape:cy="46.388009"
+     inkscape:cx="2.5858001"
+     inkscape:zoom="4.2150193"
      showgrid="false"
      id="namedview117"
      inkscape:window-height="932"
@@ -405,16 +405,10 @@
          stop-color="#00c8ff" />
     </linearGradient>
   </defs>
-  <rect
-     id="rect979"
-     style="fill:url(#linearGradient968);paint-order:stroke fill markers"
-     stroke-width="4.3314"
-     fill="url(#linearGradient968)"
-     ry="3.241364"
-     height="55"
-     width="48.316986"
-     y="4.5"
-     x="7.841507" />
+  <path
+     id="rect1135"
+     style="fill:#ebebeb;fill-opacity:1;stroke-width:0.3"
+     d="M 11.082031 4.5 C 9.2863155 4.5 7.8417969 5.9464718 7.8417969 7.7421875 L 7.8417969 56.257812 C 7.8417969 58.053528 9.2863155 59.5 11.082031 59.5 L 52.917969 59.5 C 54.713685 59.5 56.158203 58.053528 56.158203 56.257812 L 56.158203 7.7421875 C 56.158203 5.9464718 54.713685 4.5 52.917969 4.5 L 11.082031 4.5 z " />
   <circle
      id="circle53"
      fill="#5e4aa6"
