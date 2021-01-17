@@ -26,7 +26,6 @@
   <path d="m2.8624 2.8534a7.9302 7.936 0 0 0-2.3296 5.6118 7.9302 7.936 0 0 0 1.4161e-4 0.00346c2.0288 0.0027258 4.0585-0.77355 5.6131-2.3293z" fill="#f34f17"/>
   <path d="m8.463 0.5292a7.9302 7.936 0 0 0-7.9302 7.936 7.9302 7.936 0 0 0 7.9302 7.936z" enable-background="new" opacity=".05"/>
  </g>
- <circle cx="8.4665" cy="8.4665" r="3.2851" fill="#fff" fill-rule="evenodd" opacity=".8" style="paint-order:stroke fill markers"/>
- <path d="m10.734 8.466a2.267 2.267 0 0 1-2.268 2.268 2.267 2.267 0 0 1-2.267-2.268 2.267 2.267 0 0 1 2.268-2.267 2.267 2.267 0 0 1 2.267 2.267z" color="#000000" fill="#6687df" overflow="visible" style="isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke"/>
- <path d="m8.326 7.5405v0.794h-0.794v0.265h0.794l0.017 0.793h0.248v-0.793h0.793l0.017-0.265h-0.81v-0.794z" color="#000000" fill="#fff" overflow="visible" style="isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke"/>
+ <circle cx="8.4665" cy="8.4665" r="5.953" fill="#fff" opacity=".2" stroke-linecap="round" stroke-linejoin="round" stroke-width=".94788" style="paint-order:stroke fill markers"/>
+ <circle cx="8.4665" cy="8.4665" r="3.3072" fill="#fff" opacity=".2" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5266" style="paint-order:stroke fill markers"/>
 </svg>
