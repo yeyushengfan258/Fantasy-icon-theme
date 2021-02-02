@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="clickup.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07, custom)">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14">
+    <linearGradient
+       id="b"
+       x2="1"
+       gradientTransform="matrix(111.11,0,0,-111.11,81.336,300.34)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#58c3e7"
+         offset="0"
+         id="stop843" />
+      <stop
+         stop-color="#379ad7"
+         offset="1"
+         id="stop845" />
+    </linearGradient>
+    <linearGradient
+       id="a"
+       x2="1"
+       gradientTransform="matrix(51.842,0,0,-51.842,110.89,304.34)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#ed797f"
+         offset="0"
+         id="stop848" />
+      <stop
+         stop-color="#e84767"
+         offset="1"
+         id="stop850" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="937"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="6.1953125"
+     inkscape:cx="24.914518"
+     inkscape:cy="37.724005"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <path
+     d="m 62.0001,31.999886 c 0,3.596367 -0.633008,7.0448 -1.793913,10.240076 -0.806945,2.221158 -1.868559,4.321219 -3.151848,6.263556 -0.537497,0.816659 -1.115512,1.605311 -1.729017,2.363272 -1.964032,2.425635 -4.298163,4.53779 -6.918183,6.252596 -0.964932,0.631798 -1.967812,1.209812 -3.006069,1.727693 -4.032079,2.017817 -8.583476,3.152907 -13.400957,3.152907 -4.817103,0 -9.368499,-1.13509 -13.400957,-3.152982 -1.03837,-0.518032 -2.042421,-1.095971 -3.007354,-1.727694 -2.653469,-1.737559 -5.015531,-3.883163 -6.9956646,-6.348975 -0.614639,-0.764085 -1.191444,-1.559993 -1.728979,-2.384022 -1.248969,-1.910135 -2.283635,-3.971228 -3.07463,-6.149413 -1.160716,-3.194784 -1.792628,-6.641516 -1.792628,-10.237052 0,-16.568641 13.4311936,-29.9998344 29.9998346,-29.9998344 8.317014,0 15.84258,3.3844447 21.276892,8.8503154 1.566078,1.57462 2.958408,3.323291 4.143578,5.213961 1.120425,1.78042 2.057086,3.688136 2.78568,5.694727 1.16098,3.195918 1.794026,6.644162 1.794026,10.240075 z"
+     fill="#fafafa"
+     stroke-width="0.117187"
+     id="path857" />
+  <g
+     transform="matrix(1.1613333,0,0,1.1613333,-2.8402313,-4.5822363)"
+     id="g8">
+    <path
+       d="m 30,16 -13.826,11.549 4.2227,4.8574 9.6035,-8.0215 9.6035,8.0215 4.2226,-4.8574 z"
+       fill="#ff6d6f"
+       style="paint-order:stroke markers fill"
+       id="path4" />
+    <path
+       d="m 39.539,35.706 a 11,11 0 0 1 -9.8605,5.2851 11,11 0 0 1 -8.9408,-5.2855 l -4.8025,3.6164 a 17,17 0 0 0 13.495,7.6639 17,17 0 0 0 14.635,-7.245 z"
+       fill="#6a7efb"
+       style="paint-order:stroke markers fill"
+       id="path6" />
+  </g>
+  <circle
+     cx="-1304.8558"
+     cy="-1240.7048"
+     r="0"
+     fill="#5e4aa6"
+     stroke-width="1.00001"
+     id="circle855" />
+  <circle
+     cx="-205.86848"
+     cy="24.973175"
+     r="0"
+     fill="#5e4aa6"
+     fill-rule="evenodd"
+     stroke-width="1.00001"
+     id="circle871" />
+</svg>
